@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "95706E26-6F27-40A3-87C8-941562FC5B2A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87204438-EB70-4584-A2A7-26EDA1FFEE64"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EarthQuakeiOSApp/PredictionFeature/PredictionsListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "87204438-EB70-4584-A2A7-26EDA1FFEE64 - 8e23352503b29769"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;EarthQuakeiOSApp.PredictionModel&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Text)&gt;&gt;, EarthQuakeiOSApp.PredictionMapView&gt;&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;EarthQuakeiOSApp.PredictionModel&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Text)&gt;&gt;, EarthQuakeiOSApp.PredictionMapView&gt;&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in EarthQuakeiOSApp.PredictionsListView.body.getter : some"
+                  moduleName = "EarthQuakeiOSApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dedeepyareddysalla/Documents/MyGitFinalApps/EarthQuakeInfoApp/EarthQuakeiOSApp/EarthQuakeiOSApp/PredictionFeature/PredictionsListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "87204438-EB70-4584-A2A7-26EDA1FFEE64 - 8e23352503b29769"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;EarthQuakeiOSApp.PredictionModel&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Text)&gt;&gt;, EarthQuakeiOSApp.PredictionMapView&gt;&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;EarthQuakeiOSApp.PredictionModel&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Text)&gt;&gt;, EarthQuakeiOSApp.PredictionMapView&gt;&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in EarthQuakeiOSApp.PredictionsListView.body.getter : some"
+                  moduleName = "EarthQuakeiOSApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dedeepyareddysalla/Documents/MyGitFinalApps/EarthQuakeInfoApp/EarthQuakeiOSApp/EarthQuakeiOSApp/PredictionFeature/PredictionsListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "87204438-EB70-4584-A2A7-26EDA1FFEE64 - 8e23352503b29769"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;EarthQuakeiOSApp.PredictionModel&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Text)&gt;&gt;, EarthQuakeiOSApp.PredictionMapView&gt;&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;EarthQuakeiOSApp.PredictionModel&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Text)&gt;&gt;, EarthQuakeiOSApp.PredictionMapView&gt;&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in EarthQuakeiOSApp.PredictionsListView.body.getter : some"
+                  moduleName = "EarthQuakeiOSApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dedeepyareddysalla/Documents/MyGitFinalApps/EarthQuakeInfoApp/EarthQuakeiOSApp/EarthQuakeiOSApp/PredictionFeature/PredictionsListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90B10FB1-6DAF-41A1-BC1B-115F9DD9E5E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EarthQuakeiOSApp/PredictionFeature/PredictionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getEarthQuakeList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90B10FB1-6DAF-41A1-BC1B-115F9DD9E5E0 - edab74e93d4a3132"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in EarthQuakeiOSApp.PredictionViewModel.getEarthQuakeList() -&gt; ()"
+                  moduleName = "EarthQuakeiOSApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dedeepyareddysalla/Documents/MyGitFinalApps/EarthQuakeInfoApp/EarthQuakeiOSApp/EarthQuakeiOSApp/PredictionFeature/PredictionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "90B10FB1-6DAF-41A1-BC1B-115F9DD9E5E0 - edab74e93d4a3132"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in EarthQuakeiOSApp.PredictionViewModel.getEarthQuakeList() -&gt; ()"
+                  moduleName = "EarthQuakeiOSApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dedeepyareddysalla/Documents/MyGitFinalApps/EarthQuakeInfoApp/EarthQuakeiOSApp/EarthQuakeiOSApp/PredictionFeature/PredictionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
