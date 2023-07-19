@@ -1,2 +1,2 @@
 # EarthQuakeInfoApp
-[Contribution guidelines for this project](/screenshots/firstScreen)
+[Contribution guidelines for this project](./screenshots/firstScreen)
